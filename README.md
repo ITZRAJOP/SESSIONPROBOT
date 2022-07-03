@@ -87,3 +87,8 @@ Group Chat :- [HINDUSTANI BOT SUPPORT](https://t.me/hindustaniupdates)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+
+
+-------------------------------------------------
+## Founder -[God-Million](https://t.me/GOD_MILLION)
+## Owner -[Parshuram-Op](https://t.me/ITZ_PARSHURAM)
