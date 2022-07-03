@@ -76,17 +76,17 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@LionXUpdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXUpdates&logo=telegram)
+![Channel](https://img.shields.io/badge/dynamic/json?color=black&label=channel%20@hindustaniupdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhindustaniupdates&logo=telegram)
 
-![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@LionXSupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXSupport&logo=telegram)
+![Group](https://img.shields.io/badge/dynamic/json?color=black&label=support%20@hindustanibotsupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhindustanibotsupport&logo=telegram)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/ITZRAJOP)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/ITZRAJOP)
 
 
 -------------------------------------------------
