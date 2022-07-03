@@ -76,9 +76,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [HINDUSTANI BOT](https://t.me/StarkBots)
+Channel :- [HINDUSTANI BOT](https://t.me/hindustanibotsupport)
 
-Group Chat :- [HINDUSTANI BOT SUPPORT](https://t.me/StarkBotsChat)
+Group Chat :- [HINDUSTANI BOT SUPPORT](https://t.me/hindustaniupdates)
 
 ## :)
 
