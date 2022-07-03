@@ -76,9 +76,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [HINDUSTANI BOT](https://t.me/hindustanibotsupport)
+![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@LionXUpdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXUpdates&logo=telegram)
 
-Group Chat :- [HINDUSTANI BOT SUPPORT](https://t.me/hindustaniupdates)
+![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@LionXSupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXSupport&logo=telegram)
 
 ## :)
 
