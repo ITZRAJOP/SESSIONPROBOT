@@ -76,9 +76,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-![Channel](https://img.shields.io/badge/dynamic/json?color=black&label=channel%20@hindustaniupdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhindustaniupdates&logo=telegram)
+![Channel](https://img.shields.io/badge/dynamic/json?color=black&label=channel%20@hindustaniupdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhttps://t.me/hindustaniupdates&logo=telegram)
 
-![Group](https://img.shields.io/badge/dynamic/json?color=black&label=support%20@hindustanibotsupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhindustanibotsupport&logo=telegram)
+![Group](https://img.shields.io/badge/dynamic/json?color=black&label=support%20@hindustanibotsupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dhttps://t.me/hindustanibotsupport&logo=telegram)
 
 ## :)
 
